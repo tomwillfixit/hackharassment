@@ -1,10 +1,12 @@
 # Together we can #HackHarassment
 
+![hackharassment](img/hh.jpg "http://www.hackharassment.com")
+
 Online harassment has become a pervasive and often vicious problem with real-life repercussions. Today’s tech and media leaders have a collective responsibility and capability to identify solutions that can help reduce different forms of online harassment.
 
 Take the pledge : http://www.hackharassment.com/pledge/
 
-As an active member of the Docker community, which is rich and diverse, it was a little disheartening to hear stories of online harassment.  Here are 3 practical ways that the Docker community can increase awareness of this problem.
+Here are 3 practical ways that the Docker community can increase awareness of this problem.
 
 ## 1. Add a single slide
 
